@@ -1,0 +1,64 @@
+#form .info{
+    background-image: url(./Dashboard\ Login\ Dark\ Theme.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+   
+}
+
+#form .info h1{
+    color: white;
+    height: 212px;
+    width: 80px;
+    padding:157px 534px ;
+   
+}
+
+#form p{
+    color: white;
+    padding-left: 466px ;
+    padding-right: 467px;
+    margin-top: 39px;
+    margin-bottom: 36px;
+   
+}
+
+#form ::placeholder{
+    border-radius: 10px;
+    background-color:rgba(34, 73, 87, 1);
+    color: white;
+    width: 300px;
+    height: 45px;
+    padding: 332px 490px;
+margin-top: 36px;
+margin-bottom: 32px;
+
+}
+
+#form ::placeholder{
+
+    border-radius: 10px;
+    background-color:rgba(34, 73, 87, 1);
+    color: white;
+    width: 300px;
+    height: 45px;
+    padding: 332px 490px;
+margin-top: 32px;
+margin-bottom: 23px;
+}
+#form .label{
+color: white;
+margin-top: 23px;
+margin-right:32px ;
+}
+
+
+.button{
+    background-color: #20DF7F;
+    padding-bottom: 154px;
+    padding-left: 490px;
+    border-radius:10px ;
+    margin-top: 24px;
+}
